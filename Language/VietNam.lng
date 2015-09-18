@@ -1,0 +1,224 @@
+'---------vnAntivirus 0.5 (alpha)-------
+'---------Project code name : LovePN----
+'---------Send to My Love---------------
+
+[frmMain]
+frmMain=D9ie6u khie63n chi1nh
+cmdPro=Tie61n tri2nh
+cmdSta=Kho73i d9o65ng
+cmdScan=Que1t theo ma64u
+cmdOpt=Tu2y cho5n
+cmdAu=Ta1c gia3
+cmdHide=A63n
+cmdUp=Du74 lie65u worm
+cmdScanSys=Que1t he65 tho61ng
+
+[frmDat]
+frmIcon=Nha65n da5ng vo71i bie63u tu7o75ng :
+cmdBack=Tro73 la5i
+cmdAdd=The6m
+
+LVI(1)=Tªn
+
+[frmAdd]
+lblPath=D9u7o72ng da64n:
+lblName=Te6n worm:
+frmSet=Ca61u hi2nh :
+optIcon=Que1t vo71i bie63u tu7o75ng
+lblIcon=Nha65n da5ng worm ba82ng ca1ch que1t bie63u tu7o75ng
+optFile=Que1t theo ma4 nha65n da5ng rie6ng
+lblFile=Nha65n da5ng worm ba82ng ma4 rie6ng cu3a tu72ng file
+cmdCancel=Hu3y
+cmdUp=Ca65p nha65t
+cmdBro=...
+
+[frmOpt]
+frmAutoScan=Tu75 d9o65ng que1t
+chkUSB=Que1t tre6n USB
+chkScanI=Que1t bie63u tu7o75ng
+chkFolder=Que1t khi duye65t thu7 mu5c
+chkAutoIT=Que1t file vie61t tre6n AutoIT
+chkSam=Que1t theo ma64u
+chkDec=Nha65n da5ng the6m ta65p tin va2o he65 tho61ng
+cmdBrowFolder=...
+
+frmLang=Ngo6n ngu74
+optEng=EngLish
+optVie=Tie61ng Vie65t
+
+frmSta=Kho73i d9o65ng
+chkStartup=Cha5y khi Windows kho73i d9o65ng
+chkShow=Hie65n chu7o7ng tri2nh
+chkSystemTray=Hie65n tre6n khay he65 tho61ng
+
+cmdOk=D9o62ng y1
+cmdCancel=Hu3y bo3
+
+[frmMnu]
+mnua1=Tie61n tri2nh
+mnua2=Kho73i d9o65ng
+mnuaSpa=-
+mnua3=Hie65n
+mnua4=Ta1c gia3
+mnuaSpa1=-
+mnuaExit=Thoa1t
+
+mnub1=Ta5o kho1a
+mnub2=Xo1a kho1a
+mnubSpa=-
+mnub3=Que1t he65 tho61ng
+
+mnuc1=Tie6u die65t
+mnuc2=App mo71i
+mnucSpa=-
+mnuc3=Que1t he65 tho61ng
+
+mnud1=Xo1a
+mnue1=Xo1a
+
+[frmAbout]
+lblName=vnAntivirus v0.5 (alpha)
+lblAuthor=Ta1c gia3 : Le6 Nguye6n Du4ng
+lblEmail=Email : dungcoivb@gmail.com
+lblSend=Pha62n me62m na2y la2 mo1n qua2 va2o nga2y sinh nha65t My Love (PN).
+lblOS=vnAntivirus la2 mo65t pha62n me62m ma4 nguo62n mo73
+lblSup=Ho64 tro75 tru75c tuye61n (Nick yahoo) : dungcoivb
+lblSam=Ba5n co1 the63 gu73i ma64u virus ta5i : http://www.vietvirus.info
+lblVer=Ca65p nha65t : 7/8/2007
+
+cmdBack=Tro73 la5i
+
+[frmAddKey]
+lblType=Kie63u :
+lblName=Te6n :
+lblPath=D9u7o72ng da64n :
+cmdOk=D9o62ng y1
+cmdCancel=Hu3y bo3
+cmdBro=...
+
+[frmDetect]
+frmDetect=File d9u7o75c nha65n da5ng :
+cmdKill=Tie6u die65t
+cmdBack=Tro73 la5i
+
+LV(1)=§èi t­îng
+LV(2)=NhËn d¹ng
+LV(3)=§­êng dÉn
+LV(4)=TiÕn tr×nh
+
+[frmMas]
+cmdCancel=Hu3y bo3
+cmdScan=Que1t
+
+[frmNewApp]
+lblOpen=Mo73
+cmdCancel=Hu3y
+cmdBro=...
+cmdOk=D9o62ng y1
+
+[frmPht]
+lblPath=D9u7o72ng da64n :
+lblFolder=Thu7 mu5c
+lblWait=D9ang que1t trong he65 tho61ng...
+
+frmPro=Tie61n tri2nh
+frmPath=File trong he65 tho61ng
+frmRes=Kho73i d9o65ng
+
+cmdScan=Que1t
+cmdKill=Tie6u die65t
+cmdBro=...
+cmdBrowFolder=...
+cmdBack=Tro73 la5i
+
+LV(1)=Tªn
+LV(2)=§­êng dÉn
+LV(3)=KÝch th­íc
+
+LV1(1)=Tªn
+LV1(2)=§­êng dÉn
+LV1(3)=ChØ sè
+
+LV2(1)=Tªn khãa
+LV2(2)=GÝa trÞ
+LV2(3)=§­êng dÉn khãa
+
+[frmPro]
+cmdRe=La2m tu7o7i
+cmdBack=Tro73 la5i
+cmdScan=Que1t tie61n tri2nh
+
+LV(1)=Tªn tiÕn tr×nh
+LV(2)=§­êng dÉn
+LV(3)=ChØ sè
+
+[frmScan]
+cmdScan=Que1t
+cmdCancel=Hu3y
+lblPH=0 file
+lblDQ=0 file
+
+lblPathScan=Thu7 mu5c que1t :
+lblNP=D9ang que1t :
+lblDaQuet=D9a4 que1t:
+lblPhH=D9a4 pha1t hie65n :
+
+chkIndex=Ta5o ba3n chi3 mu5c
+chkCWI=Que1t theo chi3 mu5c d9a4 sa81p xe61p
+
+[frmSta]
+cmdRe=La2m tu7o7i
+cmdBack=Tro73 la5i
+cmdRepair=Su74a chu74a key
+cmdScan=Que1t kho73i d9o65ng
+
+LV(1)=Tªn khãa
+LV(2)=GÝa trÞ
+LV(3)=Tªn ®­êng dÉn
+
+[Other]
+Sta=Khëi ®éng
+Lan=Ng«n ng÷
+Aut=Tù ®éng quÐt
+
+[Message]
+MesScanF=Que1t
+MesScanT=Du72ng
+MesStopScan=D9a4 du72ng que1t
+
+MesComScan=D9a4 que1t xong
+MesStoScan=D9a4 du72ng que1t
+MesSe=Ba5n chu7a cho5n thu7 mu5c
+MesNS=Kho6ng to62n ta5i file ca61u hi2nh
+MesFL=Kho6ng to62n ta5i file ngo6n ngu74
+MesSUSB=Hoa2n tha2nh que1t d9i4a USB
+MesRCR=Hoa2n tha2nh su73a chu74a ket kho73i d9o65ng
+MesKDR=Kho6ng d9u3 kho1a d9e63 kho73i d9o65ng Windows
+MesComAdd=Hoa2n tha2nh the6m kho1a kho73i d9o65ng
+
+MesComUI=Hoa2n tha2nh ca65p nha65t Icon
+MesComUD=Hoa2n tha2nh ca65p nha65t ma4 nha65n da5ng virus
+MesIAs=Bie63u tu7o75ng na2y gio61ng bie63u tu7o75ng :
+MesTDL=Du74 lie65u nay2 d9a4 co1 :
+MesNN=Du74 lie6u5 ro64ng
+
+MesDectectAutorun=File tu khoi dong
+MesAutoBe=File se duoc kick hoat : 
+MesCantDelKey=Ba5n kho6ng the63 xo1a kho1a na2y
+
+MesNF=Kho6ng ti2m tha61y file
+MesLPro=Hoa2n tha2nh ti2m trong ca1c tie61n tri2nh
+MesLFile=Hoa2n tha2nh ti2m file trong he65 tho61ng
+MesLRegedit=Hoa2n tha2nh ti2m kho1a trong registry
+
+MesKPro=Hoa2n tha2nh tie6u die65t ca1c tie61n tri2nh
+MesKFile=Hoa2n tha2nh tie6u die65t ca1c file
+MesKRegedit=Hoa2n tha2nh tie6u die65t ca1c key kho73i d9o65ng
+
+MesKDec=Hoa2n tha2nh tie6u die65t ca1c file d9a4 pha1t hie65n
+
+DecVirus=Worm
+DecFile=File
+DecVir=Virus
+
+No=Kh«ng
